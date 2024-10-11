@@ -2,7 +2,7 @@
 📸 InstaClone
 Welcome to InstaClone! 🚀
 
-InstaClone is a UI clone of Instagram, crafted with HTML, CSS, and JavaScript. Dive into the world of social media with this visually appealing and user-friendly Instagram replica.
+This is a UI clone of Instagram, crafted with HTML, CSS, and JavaScript. Dive into the world of social media with this visually appealing and user-friendly Instagram replica.
 
 🌐 Overview
 Responsive Design: Enjoy a seamless experience on various devices, just like the real Instagram.
